@@ -12,4 +12,5 @@ Results indicate a counter-intuitive finding, which reveals that those who are l
 ![](plots/cate.png)
 
 [^1] Collective narcissism is a belief that the in-group is exceptional, entitled to privileged treatment but not sufficiently recognized by others.
+
 [^2] A psychological trait that indicates the degree which an an individual is highly submissive to authority figures, acts aggressivley in the name of authority and is rigidly abiding by the conventional values.
